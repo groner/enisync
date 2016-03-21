@@ -1,3 +1,6 @@
+# Copyright 2016, Kai Groner <kai@gronr.com>
+# Release under the simplified BSD license.  See LICENSE for details.
+
 import argparse
 from ipaddress import IPv4Interface
 import re
